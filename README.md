@@ -23,5 +23,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/jLFCJeo.png)
+![](https://i.imgur.com/n4BsSTG.png)
 > 可提供規則來定義任何資料
